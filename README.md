@@ -9,6 +9,6 @@ I'm also open to volunteering opportunities.
 - 📫 You can reach me via dee-hem:  @tivereidoro  on all socials.
 
 
-- ⚡ Fun fact: just breathe .. :relaxed:
+- ⚡ Fun fact: just breathe .. :relieved:
 
 Looking Forward to meeting you!
