@@ -11,4 +11,4 @@ I'm also open to volunteering opportunities.
 
 - ⚡ Fun fact: just breathe .. :relieved:
 
-Looking Forward to meeting you!
+▪︎▪︎▪︎
