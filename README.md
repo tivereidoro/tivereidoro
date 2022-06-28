@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Frontend Dev.; HTML, CSS, JavaScript, and Python.
-- 👯 I’m looking to collaborate on projects on website development.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...@tivereidoro  on all socials.
-- 😄 Pronouns: ...
+So nice to meet you!
+
+I am Tivere IDORO.
+
+- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/zuriteam">Zuriteam </a>
+- 👯 I’m looking to collaborate on frontend website development projects.
+I'm also open to volunteering opportunities. 
+
+- 📫 You can reach me via dee-hem:  @tivereidoro  on all socials.
+
+
 - ⚡ Fun fact: ...
--->
+
+Looking Forward to meeting you!
