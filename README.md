@@ -16,6 +16,6 @@ I'm also open to volunteering opportunities.
 
 ▪︎▪︎▪︎
 
-[![Tivere’s stats](https://github-readme-stats.vercel.app/api?username=tivereidoro)](https://github.com/tivereidoro)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact)](https://github.com/tivereidoro)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
