@@ -1,5 +1,10 @@
 <img src="https://user-images.githubusercontent.com/105525310/177575184-95fc0238-d4f8-4b73-b7ba-9c55fe62c4cd.gif" alt="my banner"/>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello.!👋;Tivere here...;Welcome+to+my+Profile!&center=true&size=30&">
+  </a>
+</h1>
 
 ### Hi there 👋
 
