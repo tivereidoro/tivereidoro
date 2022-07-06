@@ -2,8 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF16CB&center=true&vCenter=true&lines=Hello+there.!!%F0%9F%91%8B;I'm+Tivere+IDORO...;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF16CB&center=true&vCenter=true&lines=Hello+there.!!%F0%9F%91%8B;I'm+Tivere+IDORO...;Welcome+to+my+profile.)">
+  </a>
+</h1>
 
-- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">the Zuri team </a>
+- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">the Zuri team</a>
 - 👯 I’m looking to collaborate on frontend website development projects.
 I'm also open to volunteering opportunities. 
 
