@@ -3,13 +3,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF16CB&center=true&vCenter=true&lines=Hello+there.!!%F0%9F%91%8B;I'm+Tivere+IDORO...;Welcome+to+my+profile.">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF16CB&center=true&vCenter=true&width=600&lines=Hello+there.!!%F0%9F%91%8B;Welcome+to+my+profile.;I'm+Tivere+IDORO...;I'm+a+frontend+developer%2C+and+tech+enthusiast.">
   </a>
 </h1>
 
-- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">the Zuri team</a>
-- 👯 I’m looking to collaborate on frontend website development projects.
-I'm also open to volunteering opportunities. 
+
+- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
+- 👯 I’m looking to collaborate on frontend development projects, and I'm also open to volunteering opportunities. 
 
 - 📫 You can reach me via dee-hem:  @tivereidoro  on all socials.
 
