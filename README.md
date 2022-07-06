@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
 - 👯 I’m looking to collaborate on frontend development projects, and I'm also open to volunteering opportunities. 
 
-- 📫 You can reach me via direct message:  <a href="https://twitter.com/tivereidoro">@tivereidoro</a>  on all socials.
+- 📫 You can reach me via direct message:  <a href="https://twitter.com/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 
 
 - ⚡ Fun fact: just breathe .. :relieved:
