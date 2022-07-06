@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/105525310/177575184-95fc0238-d4f8-4b73-b7ba-9c55fe62c4cd.gif" alt="my banner"/>
+<img align="center" width="90%"  src="https://user-images.githubusercontent.com/105525310/177575184-95fc0238-d4f8-4b73-b7ba-9c55fe62c4cd.gif" alt="my banner"/>
 
 
 <h1 align="center">
@@ -18,6 +18,6 @@
 
 ▪︎▪︎▪︎
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
