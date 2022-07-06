@@ -15,3 +15,7 @@ I'm also open to volunteering opportunities.
 - ⚡ Fun fact: just breathe .. :relieved:
 
 ▪︎▪︎▪︎
+
+[![Tivere’s stats](https://github-readme-stats.vercel.app/api?username=tivereidoro)](https://github.com/tivereidoro)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact)](https://github.com/tivereidoro)
