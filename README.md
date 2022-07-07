@@ -9,6 +9,7 @@
 
 ## 
 <p align="justify">
+
 - 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
 
 - 👯 I’m looking to collaborate on frontend development projects, and I'm also open to volunteering opportunities. 
