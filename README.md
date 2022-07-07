@@ -21,5 +21,5 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
-<hr>
+<br>
 ![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,py,nodejs,react,git,figma,bash,vscode&theme=light)
