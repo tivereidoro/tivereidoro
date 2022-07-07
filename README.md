@@ -17,8 +17,8 @@
 - ⚡ Fun fact: just breathe, love, and laugh often.. :relieved:  it'll  save you alot.
 
 ▪︎▪︎▪︎▪︎▪︎▪︎
+<p align="center">
+   <img width="90%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
 
-<img align="left" width="85%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
-
-<img align="left" width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
-
+   <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
+</p>
