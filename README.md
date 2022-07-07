@@ -23,4 +23,4 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
 
 
-![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,py,nodejs,react,git,figma,bash,vscode&theme=light)
+##  ![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,py,nodejs,react,git,figma,bash,vscode&theme=light)
