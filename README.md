@@ -17,7 +17,12 @@
 - 📫 You can reach me via direct message:  <a href="https://twitter.com/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 
 
-- ⚡<a href="https://github.com/tivereidoro">
+- ⚡
+</p>
+
+<p align="center">
+
+<a href="https://github.com/tivereidoro">
     <img alt="GitHub" src="https://img.shields.io/github/followers/tivereidoro?style=social&label=@tivereidoro">
 </a>
 <a href="https://codepen.io/Carol42">
