@@ -7,19 +7,19 @@
   </a>
 </h1>
 
-
-- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
+## 🌱 I’m currently learning Fullstack Dev.; 
+- HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
 - 👯 I’m looking to collaborate on frontend development projects, and I'm also open to volunteering opportunities. 
 
 - 📫 You can reach me via direct message:  <a href="https://twitter.com/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 
 
-- ⚡ Fun fact: just breathe .. :relieved:
+- ⚡ Fun fact: just breathe, love, and laugh often.. :relieved:  it'll  save you alot.
 
-▪︎▪︎▪︎
+▪︎▪︎▪︎▪︎▪︎▪︎
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
-
+<hr>
 ![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,py,nodejs,react,git,figma,bash,vscode&theme=light)
