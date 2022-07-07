@@ -10,18 +10,19 @@
 ## 
 <p align="justify">
 - 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
+
 - 👯 I’m looking to collaborate on frontend development projects, and I'm also open to volunteering opportunities. 
 
 - 📫 You can reach me via direct message:  <a href="https://twitter.com/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 
 
-- ⚡ Fun fact: just breathe, love, and laugh often.. :relieved:  it'll  save you alot.
+- ⚡ 
 </p>
 
 <p align="center">▪︎▪︎▪︎▪︎▪︎▪︎</p>
 
 <p align="center">
-   <img width="90%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true" />
+   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
 
-   <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
+   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
 </p>
