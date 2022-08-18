@@ -10,11 +10,11 @@
 ## 
 <p align="justify">
 
-- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python.. at <a href="https://github.com/Zuri-Team">Zuri Inc.</a>
+- 🌱 I’m currently learning Fullstack Dev.; HTML, CSS, JavaScript, and Python..
 
-- 👯 I’m looking to collaborate on frontend development projects, and I'm also open to volunteering opportunities. 
+- 👯 I’m looking to collaborate on frontend projects, and I'm also open to volunteering opportunities. 
 
-- 📫 You can reach me via direct message:  <a href="https://twitter.com/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
+- 📫 You can reach me via direct message:  <a href="https://linkedin.com/in/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 
 
 - ⚡
