@@ -22,6 +22,17 @@
 
 <p align="center">
 
+### Technologies
+
+[![HTML Bagde](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![css Bagde](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![JavaScript Bagde](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Python Bagde](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+
+</p>
+
+<p align="center">
+
 <a href="https://www.instagram.com/tivereidoro/">
     <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
