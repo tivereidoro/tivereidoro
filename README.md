@@ -20,8 +20,6 @@
 - ⚡
 </p>
 
-<p align="center">
-
 ### Technologies
 
 [![HTML Bagde](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
