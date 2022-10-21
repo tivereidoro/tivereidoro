@@ -10,7 +10,7 @@
 ## 
 <p align="justify">
 
-- 🌱 I’m currently learning Fullstack Dev., and Software Engineering 💻 at ALX.
+- 🌱 I’m currently learning Fullstack Dev., and Software Engineering 💻 at [ALX_Africa](https://twitter.com/alx_africa).
 
 - 👯 I’m looking to collaborate on frontend projects, and I'm also open to internship and volunteering opportunities. 
 
