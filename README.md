@@ -37,14 +37,14 @@
 <a href="https://twitter.com/tivereidoro/">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
 </a>
-<a href="https://www.instagram.com/tivereidoro/">
-    <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+<a href="https://github.com/tivereidoro">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/tivereidoro?style=social&label=@tivereidoro">
 </a>
 <a href="https://codepen.io/tivereidoro">
     <img alt="CodePen" src="https://img.shields.io/static/v1?label&message=/tivereidoro&color=000000&style=flat&logo=codepen" />
 </a>
-<a href="https://github.com/tivereidoro">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/tivereidoro?style=social&label=@tivereidoro">
+<a href="https://www.instagram.com/tivereidoro/">
+    <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 
 <a href="mailto:tivereidoro@yahoo.com">
