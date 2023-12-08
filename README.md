@@ -1,4 +1,4 @@
-<img src="[https://github.com/tivereidoro/tivereidoro/assets/105525310/c953667a-ea32-41db-9471-6e3c0736fc53](https://github.com/tivereidoro/undergrad-seminar/assets/105525310/91088a09-0a36-4934-bda5-6176f918232b)" alt="my_banner" align="center"/>
+<img align="center" src="https://github.com/tivereidoro/undergrad-seminar/assets/105525310/91088a09-0a36-4934-bda5-6176f918232b" alt="my_banner"/>
 
 
 <h1 align="center">
