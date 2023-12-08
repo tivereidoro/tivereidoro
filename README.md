@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/105525310/197118687-759d8bdd-a6c9-4680-b8a9-176018a48284.gif" alt="my_banner" align="center"/>
+<img src="https://github.com/tivereidoro/tivereidoro/assets/105525310/c953667a-ea32-41db-9471-6e3c0736fc53" alt="my_banner" align="center"/>
 
 
 <h1 align="center">
