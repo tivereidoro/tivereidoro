@@ -1,9 +1,8 @@
 <img align="center" src="https://github.com/tivereidoro/undergrad-seminar/assets/105525310/91088a09-0a36-4934-bda5-6176f918232b" alt="my_banner"/>
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF16CB&center=true&vCenter=true&width=900&lines=Hello+world.!!%F0%9F%91%8B;Welcome+to+my+profile.;I'm+Tivere+IDORO...;I'm+a+frontend+developer%2C+and+tech+enthusiast.">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=3AB743&center=true&vCenter=true&width=900&lines=Hello+world.!!%F0%9F%91%8B;Welcome+to+my+profile.;I'm+Tivere+IDORO...;I'm+a+frontend+developer%2C+and+tech+enthusiast.">
   </a>
 </h1>
 
