@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/tivereidoro/undergrad-seminar/assets/105525310/91088a09-0a36-4934-bda5-6176f918232b" alt="my_banner"/>
+<img align="center" src="https://github.com/tivereidoro/Frontend-Mentor_NFT-card/assets/105525310/73ff5f17-37b0-4888-9712-c607d8324812" alt="my_banner"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
