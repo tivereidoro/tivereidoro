@@ -15,9 +15,10 @@
 - 👯 I’m open to collaborate on frontend development projects, and I'm also open to internship and volunteering opportunities. 
 
 - 📫 You can reach me via direct message:  <a href="https://linkedin.com/in/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
+</p>
 
-
-- ⚡🚀 
+<p align="center">
+  ⚡🚀 
 </p>
 
 <!-- ### Technologies
@@ -52,7 +53,7 @@
 </a>
 </p>
 
-<p align="center">▪︎▪︎▪︎▪︎▪︎▪︎</p>
+<p align="center">○○○○○</p>
 
 <p align="center">
    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
