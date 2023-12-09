@@ -16,6 +16,7 @@
 - 📫 You can reach me via direct message:  <a href="https://linkedin.com/in/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 </p>
 
+<p></p>
 
 <p align="center">  
   ⚡🚀 
