@@ -67,7 +67,6 @@
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=000">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <br>
 
@@ -76,6 +75,7 @@
 <img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF">
 <br>
 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-12101f?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
@@ -97,7 +97,6 @@
 <img src="https://img.shields.io/github/followers/{tivereidoro}.svg?style=social&label=Follow&maxAge=2592000"/>
 <img src="https://badge-size.herokuapp.com/{tivereidoro}/{repo}/{branch}/{filename}"/>
 
-
 <img src="https://img.shields.io/badge/Udacity-grey?style=flat&logo=udacity&logoColor=#5FCFEE"/>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=flat&logo=freecodecamp&logoColor=white"/>
@@ -106,8 +105,6 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycodestyle-compliant-blue"/>
 -->
-
-<img src=""/>
 </div>
 
 <div align="center">
