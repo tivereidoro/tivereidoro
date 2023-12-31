@@ -8,7 +8,7 @@
 
 <div align="center">
 
-##  Tivere IDORO
+##  Tivere IDORO here <img alt="Hi" width="30px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Hi.gif?raw=true"/>
 👨🏻‍💻 Frontend Web Dev. || • Technologist •
 </div>
 
