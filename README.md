@@ -55,7 +55,10 @@
 </a>
 <br>
 
+<div align='center'>
+  
 ![visitors](https://komarev.com/ghpvc/?username=tivereidoro&color=blue&style=social&label=PROFILE+VIEWS)
+</div>
 
 </p>
 
