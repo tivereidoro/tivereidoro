@@ -18,7 +18,7 @@
 
 - 👯 I’m open to collaborate on frontend development projects, and I'm also open to internship and volunteering opportunities. 
 
-- 📫 Shoot me a mail or DM anytime: <a href="https://linkedin.com/in/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
+- 📫 Shoot me a mail or DM anytime: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>  on all socials.
 
 - <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://linktr.ee/tivereidoro). 🚀🚀
 </p>
@@ -33,18 +33,14 @@
 <a href="https://www.facebook.com/idorotee">
     <img alt="facebook" src="https://img.shields.io/badge/Tivere IDORO-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/tivereidoro">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=tivereidoro&color=0A66C2&style=flat&logo=linkedin"/>
-</a>
 <a href="https://twitter.com/tivereidoro/">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
 </a>
-<a href="https://github.com/tivereidoro">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/tivereidoro?style=social&label=@tivereidoro">
+<a href="https://linkedin.com/in/tivereidoro">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=tivereidoro&color=0A66C2&style=flat&logo=linkedin"/>
 </a>
-<a href="https://codepen.io/tivereidoro">
-    <img alt="CodePen" src="https://img.shields.io/static/v1?label&message=/tivereidoro&color=000000&style=flat&logo=codepen" />
-</a>
+
+
 <a href="https://www.instagram.com/tivereidoro/">
     <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
@@ -86,14 +82,11 @@
 <!-- Coming up -->
 <!--
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+
 <img src="https://img.shields.io/github/followers/{tivereidoro}.svg?style=social&label=Follow&maxAge=2592000"/>
 <img src="https://badge-size.herokuapp.com/{tivereidoro}/{repo}/{branch}/{filename}"/>
 
