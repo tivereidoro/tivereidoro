@@ -30,6 +30,9 @@
 
 <p align="center">
 
+<a href="https://www.facebook.com/idorotee">
+    <img alt="facebook" src="https://img.shields.io/static/v1?label&message=Tivere_IDORO&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
 <a href="https://linkedin.com/in/tivereidoro">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=tivereidoro&color=0A66C2&style=flat&logo=linkedin"/>
 </a>
