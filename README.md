@@ -20,11 +20,7 @@
 
 - 📫 Shoot me a mail or DM anytime: <a href="https://linkedin.com/in/tivereidoro" target="_blank">@tivereidoro</a>  on all socials.
 
-- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://linktr.ee/tivereidoro).
-</p>
-
-<p align="center">  
-  ⚡🚀 
+- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://linktr.ee/tivereidoro). 🚀🚀
 </p>
 
 <div align="center">
@@ -108,6 +104,7 @@
 -->
 </div>
 
+<br>
 <div align="center">
 
 ### Github stats
