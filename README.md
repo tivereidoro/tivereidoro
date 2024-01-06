@@ -53,12 +53,6 @@
 <a href="mailto:tivereidoro@yahoo.com">
     <img alt="email" src="https://img.shields.io/static/v1?label&message=tivereidoro@yahoo.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
-<br>
-
-<div align='center'>
-  
-![visitors](https://komarev.com/ghpvc/?username=tivereidoro&color=blue&style=social&label=PROFILE+VIEWS)
-</div>
 
 </p>
 
@@ -118,6 +112,13 @@
 
 ### Github stats
 </div>
+
+<br>
+<div align='center'>
+  
+![visitors](https://komarev.com/ghpvc/?username=tivereidoro&color=blue&style=social&label=PROFILE+VIEWS)
+</div>
+
 <p align="center">
    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
 
