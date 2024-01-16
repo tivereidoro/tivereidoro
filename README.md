@@ -1,10 +1,10 @@
 <img align="center" src="https://github.com/tivereidoro/Frontend-Mentor_NFT-card/assets/105525310/34a133d7-bf46-469e-91b8-ac0e9c0d5e7a" alt="tivere_ubuntu_terminal"/>
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=84D732&center=true&vCenter=true&width=900&lines=Hello+world.!!%F0%9F%91%8B;Welcome+to+my+profile.;I'm+Tivere+IDORO...;I'm+a+frontend+developer%2C+and+tech+enthusiast.">
   </a>
-</h1>
+</div>
 
 ---
 
