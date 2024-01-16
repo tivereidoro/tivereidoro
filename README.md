@@ -102,7 +102,8 @@
 -->
 </div>
 
-<br>
+---
+
 <div align="center">
 
 ### Github stats
