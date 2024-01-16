@@ -120,6 +120,6 @@
 
    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
 
-   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tivereidoro"/>
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tivereidoro&theme=github"/>
+   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tivereidoro"/>
 </p>
