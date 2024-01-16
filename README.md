@@ -116,7 +116,7 @@
 </div>
 
 <p align="center">
-   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
+   <img width="200em" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
 
    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
 
