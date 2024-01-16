@@ -25,7 +25,7 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 
 - 📫 Shoot me a mail or DM anytime: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>  on all socials.
 
-- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://linktr.ee/tivereidoro). 🚀🚀
+- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
 </p>
 
 <div align="center">
@@ -60,7 +60,7 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 
 <div align="center">
 
-### 🛠 tools and tech
+### 🛠 Tools and Tech
 </div>
 
 <div align='center'>
@@ -109,7 +109,7 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 
 <div align="center">
 
-### Github stats
+### Github stats..
 </div>
 
 <br>
@@ -123,6 +123,8 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
 
+   <!--
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tivereidoro&theme=github"/>
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tivereidoro"/>
+   -->
 </p>
