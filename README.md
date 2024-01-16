@@ -19,7 +19,7 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 
 <p align="justify">
 
-- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently learning Software Engineering👨🏻‍💻 at [ALX Africa](https://twitter.com/alx_africa).
+- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently learning Software Engineering at [ALX Africa](https://twitter.com/alx_africa).
 
 - 👯 I’m open to collaborate on frontend development projects, and I'm also open to internship and volunteering opportunities. 
 
