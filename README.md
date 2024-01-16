@@ -38,22 +38,18 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 <a href="https://www.facebook.com/idorotee">
     <img alt="facebook" src="https://img.shields.io/badge/Tivere IDORO-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/tivereidoro/">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
-</a>
 <a href="https://linkedin.com/in/tivereidoro">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=tivereidoro&color=0A66C2&style=flat&logo=linkedin"/>
 </a>
-
-
+<a href="https://twitter.com/tivereidoro/">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
+</a>
 <a href="https://www.instagram.com/tivereidoro/">
     <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
-
 <a href="mailto:tivereidoro@yahoo.com">
     <img alt="email" src="https://img.shields.io/static/v1?label&message=tivereidoro@yahoo.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
-
 </p>
 
 <p align="center">○○○○○</p>
@@ -109,7 +105,7 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 
 <div align="center">
 
-### Github stats..
+### Github stats
 </div>
 
 <br>
@@ -119,9 +115,8 @@ Frontend Web Developer 👨🏻‍💻 || • Technologist •
 </div>
 
 <p align="center">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
-
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/>
 
    <!--
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tivereidoro&theme=github"/>
