@@ -10,7 +10,7 @@
 
 <div align="center">
 
-##  Tivere IDORO here <img alt="Hi" width="30px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Hi.gif?raw=true"/>
+<p> Tivere IDORO here <img alt="Hi" width="30px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Hi.gif?raw=true"/></p>
 👨🏻‍💻 Frontend Web Dev. || • Technologist •
 </div>
 
