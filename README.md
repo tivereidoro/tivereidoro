@@ -30,7 +30,7 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 
 <div align="center">
 
-### Socials Links
+### Socials
 </div>
 
 <p align="center">
