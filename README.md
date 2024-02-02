@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/tivereidoro/Frontend-Mentor_NFT-card/assets/105525310/34a133d7-bf46-469e-91b8-ac0e9c0d5e7a" alt="tivere_ubuntu_terminal"/>
 
 <!--<br>-->
+<>
 <br>
 
 <div align="center">
