@@ -23,7 +23,7 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 
 - 👯 I’m open to collaborate on frontend development projects, and I'm also open to internship and volunteering opportunities. 
 
-- 📫 Shoot me a mail or DM anytime: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>  on all socials.
+- 📫 Send me a mail or DM anytime: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>  on all socials.
 
 - <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
 </p>
