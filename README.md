@@ -1,8 +1,7 @@
 <img align="center" src="https://github.com/tivereidoro/Frontend-Mentor_NFT-card/assets/105525310/34a133d7-bf46-469e-91b8-ac0e9c0d5e7a" alt="tivere_ubuntu_terminal"/>
 
 <br>
-
----
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -28,6 +27,8 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 
 - <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
 </p>
+
+##
 
 <div align="center">
 
