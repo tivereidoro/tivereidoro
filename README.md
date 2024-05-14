@@ -43,7 +43,7 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=tivereidoro&color=0A66C2&style=flat&logo=linkedin"/>
 </a>
 <a href="https://twitter.com/tivereidoro/">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label= tivereidoro">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
 </a>
 <a href="https://www.instagram.com/tivereidoro/">
     <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
