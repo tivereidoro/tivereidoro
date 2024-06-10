@@ -69,8 +69,8 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 <br>
 
 <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-<img src="http://img.shields.io/badge/-Git/Version Control-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git and Version Control-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<!-- <img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF"> -->
 <br>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
