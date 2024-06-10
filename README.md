@@ -123,8 +123,8 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 </div>
 
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/> 
-  <img height="200px" width="300px" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/> 
+  <img height="200em" width="300px" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/> 
   
    <!-- <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tivereidoro&theme=github"/> -->
 </p>
