@@ -68,11 +68,6 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-<img src="http://img.shields.io/badge/-Git and Version Control-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<!-- <img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF"> -->
-<br>
-
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-12101f?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
@@ -80,6 +75,11 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat&logo=gnu-emacs&logoColor=white"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<br>
+
+<img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+<img src="http://img.shields.io/badge/-Git and Version Control-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<!-- <img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF"> -->
 
 <!-- Coming up -->
 <!--
@@ -117,10 +117,10 @@ Frontend Web Developer 👨🏻‍💻 • || • Technologist •
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivereidoro&layout=compact&theme=radical"/> 
-<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/> -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=tivereidoro&show_icons=true&theme=radical&include_all_commits=true"/> 
 
-   <!--
+  
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tivereidoro&theme=github"/>
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tivereidoro"/>
-   -->
+   
 </p>
