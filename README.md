@@ -20,7 +20,7 @@
 
 - <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently learning Software Engineering at [ALX Africa](https://twitter.com/alx_africa).
 
-- 👯 I’m open to collaborate on frontend development projects, and I'm also open to internship and volunteering opportunities. 
+- 👯 I’m open to collaborate on frontend development projects, and internship opportunities. 
 
 - 📫 Send me a mail or DM anytime: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>  on all socials.
 
