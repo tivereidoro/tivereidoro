@@ -46,7 +46,7 @@
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
 </a>
 <a href="https://www.instagram.com/tivereidoro/">
-    <img alt="instagram" src="https://img.shields.io/static/v1?label&message=@tivereidoro&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+    <img alt="instagram" src="https://img.shields.io/static/v1?label&message=Instagram&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:tivereidoro@yahoo.com">
     <img alt="email" src="https://img.shields.io/static/v1?label&message=tivereidoro@yahoo.com&color=whitesmoke&style=flat&logo=gmail" />
