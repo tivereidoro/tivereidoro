@@ -49,7 +49,7 @@
     <img alt="instagram" src="https://img.shields.io/static/v1?label&message=Instagram&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:tivereidoro@yahoo.com">
-    <img alt="email" src="https://img.shields.io/static/v1?label&message=E-Mail&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="email" src="https://img.shields.io/static/v1?label&message=eMail&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </p>
 
