@@ -40,7 +40,7 @@
     <img alt="facebook" src="https://img.shields.io/badge/Tivere IDORO-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/tivereidoro">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=tivereidoro&color=0A66C2&style=flat&logo=linkedin"/>
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&color=0A66C2&style=flat&logo=linkedin"/>
 </a>
 <a href="https://twitter.com/tivereidoro/">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=@tivereidoro">
