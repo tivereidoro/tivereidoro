@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/-ReactJS-12101f?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"> -->
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white">
 
 <br>
 
