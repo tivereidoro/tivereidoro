@@ -13,7 +13,7 @@
 <div align="center">
 
 <p> Tivere IDORO here <img alt="Hi" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Hi.gif?raw=true"/></p>
-• Software Engineer 👨🏻‍💻 || [ALX SE](https://www.alxafrica.com/) alumnus. || Technologist •
+• Software Engineer 👨🏻‍💻 || <a href="https://www.alxafrica.com/">ALX SE</a> alumnus || Technologist •
 </div>
 
 <p align="justify">
