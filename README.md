@@ -18,13 +18,15 @@
 
 <p align="justify">
 
-- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently learning Software Engineering at [ALX Africa](https://twitter.com/alx_africa).
+- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently freelancing as a Software Engineer. Lemme build your next project.
+  
+- [ALX SE](https://www.alxafrica.com/) alumnus.
 
-- 👯 I’m open to collaborate on frontend development projects, and internship opportunities. 
+- 👯 I collaborate with excellent engineers to build world class tech solutions.
 
-- 📫 Send me a mail or DM anytime: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>  on all socials.
+- 📫 Send me a mail or DM and we can work together: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>.
 
-- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
+- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web and all socials [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
 </p>
 
 ##
