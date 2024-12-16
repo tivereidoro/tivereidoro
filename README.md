@@ -18,7 +18,7 @@
 
 <p align="justify">
 
-- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently freelancing as a Software Engineer. Lemme build your next project.
+- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently accepting projects. Lets' work together to build your next project.
 
 - 👯 I collaborate with excellent engineers to build world class tech solutions.
 
