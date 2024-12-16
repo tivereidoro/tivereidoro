@@ -18,11 +18,11 @@
 
 <p align="justify">
 
-- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently accepting projects. Lets' work together to build your next project.
+- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently accepting new gigs. Let's work together to build your next project.
 
-- 👯 I collaborate with excellent engineers to build world class tech solutions.
+- 👯 I also love collaborating with excellent engineers to build world class tech solutions.
 
-- 📫 Send me a mail or DM and we can work together: <a href="mailto:tivereidoro@yahoo.com" target="_blank">@tivereidoro</a>.
+- 📫 Let's talk. Send me a mail or DM: <a href="mailto:tivere.tech@gmail.com" target="_blank">@tivereidoro</a>.
 
 - <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the world wide web and all socials [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
 </p>
