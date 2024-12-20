@@ -62,16 +62,17 @@
 
 <div align='center'>
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
+
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/-React-12101f?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
 
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Node-43853D?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-React-12101f?style=flat&logo=react&logoColor=00c8ff">
+
+
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"> -->
@@ -85,6 +86,8 @@
 
 <!-- Coming up -->
 <!--
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat&logo=gnu-emacs&logoColor=white"/>
