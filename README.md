@@ -68,6 +68,7 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Node-43853D?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-12101f?style=flat&logo=react&logoColor=00c8ff">
