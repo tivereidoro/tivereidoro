@@ -68,9 +68,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Node-43853D?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-12101f?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
@@ -80,7 +80,7 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-<img src="http://img.shields.io/badge/-Git and Version Control-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <!-- <img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF"> -->
 
 <!-- Coming up -->
