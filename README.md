@@ -48,9 +48,6 @@
 <a href="https://www.instagram.com/tivereidoro/">
     <img alt="instagram" src="https://img.shields.io/static/v1?label&message=Instagram&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
-<a href="mailto:tivereidoro@yahoo.com">
-    <img alt="email" src="https://img.shields.io/static/v1?label&message=eMail&color=whitesmoke&style=flat&logo=gmail" />
-</a>
 </p>
 
 <p align="center">○○○○○</p>
@@ -86,6 +83,10 @@
 
 <!-- Coming up -->
 <!--
+<a href="mailto:tivereidoro@yahoo.com">
+    <img alt="email" src="https://img.shields.io/static/v1?label&message=eMail&color=whitesmoke&style=flat&logo=gmail" />
+</a>
+
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
 
