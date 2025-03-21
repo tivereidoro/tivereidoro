@@ -22,7 +22,7 @@
 
 - 👯 I love collaborating with excellent engineers to build world class tech solutions.
 
-- 📫 Let's talk. Send me a mail or DM: <a href="mailto:tivere.tech@gmail.com" target="_blank">@tivereidoro</a>.
+- 📫 Let's talk. Get in touch via DM: <a href="mailto:tivere.tech@gmail.com" target="_blank">@tivereidoro</a>.
 
 - <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the web as [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
 </p>
