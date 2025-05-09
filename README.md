@@ -20,7 +20,7 @@
 
 - <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently accepting new gigs. Let's work together to build your next project.
 
-- 👯 I love collaborating with excellent engineers to build world class tech solutions.
+- 👯 I love collaborating with excellent talents to build world class tech solutions.
 
 - 📫 Let's talk. Get in touch via DM: <a href="mailto:tivere.tech@gmail.com" target="_blank">@tivereidoro</a>.
 
