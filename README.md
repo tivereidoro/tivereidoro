@@ -18,7 +18,7 @@
 
 <p align="justify">
 
-- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently available for freelance gigs. Let's work together to build your next project.
+- <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="20px"/> I’m currently available for new freelance gigs. Let's work together to build your next project.
 
 - 👯 I love collaborating with excellent talents to build world class tech solutions.
 
