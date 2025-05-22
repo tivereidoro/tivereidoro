@@ -84,7 +84,6 @@
 
 <!-- Coming up -->
 <!--
----
 <a href="mailto:tivereidoro@yahoo.com">
     <img alt="email" src="https://img.shields.io/static/v1?label&message=eMail&color=whitesmoke&style=flat&logo=gmail" />
 </a>
