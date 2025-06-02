@@ -82,7 +82,7 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <!-- <img src="http://img.shields.io/badge/-Version Control-000000?style=flat&logo=github&logoColor=FFFFFF"> -->
 
-<!-- Coming up -->
+<!-- Coming up soon -->
 <!--
 <a href="mailto:tivereidoro@yahoo.com">
     <img alt="email" src="https://img.shields.io/static/v1?label&message=eMail&color=whitesmoke&style=flat&logo=gmail" />
