@@ -111,6 +111,7 @@
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycodestyle-compliant-blue"/>
+<img src="https://img.shields.io/badge/pycodestyle-compliant-blue"/>
 -->
 </div>
 
