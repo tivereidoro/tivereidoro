@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=84D732&center=true&vCenter=true&width=900&lines=Hello+world.!!%F0%9F%91%8B+++Welcome+to+my+profile.;I'm+Tivere+IDORO...;I'm+a+frontend+developer%2C;and+software+engineer.">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=84D732&center=true&vCenter=true&width=900&lines=¡Hola.!!%F0%9F%91%8B+++Welcome+to+my+profile.;I'm+Tivere+IDORO...;Software+Engineer%2C;and+Tech+Mentor.">
   </a>
 </div>
 
@@ -22,9 +22,9 @@
 
 - 👯 I love collaborating with intelligent tech talents to build world class solutions.
 
-- 📫 Let's talk. Get in touch via DM: <a href="mailto:tivere.tech@gmail.com" target="_blank">@tivereidoro</a>.
+- 📫 Let's talk. Send a DM: <a href="https://wa.me/+2348134711972?text=Hi%20Tivere,%20I%20found%20your%20github%20and%20would%20like%20to%20discuss%20a%20project." target="_blank">@tivereidoro</a>.
 
-- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the web as [@tivereidoro](https://tivereidoro.bio.link). 🚀🚀
+- <nbsp> <img alt="Earth" width="20px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/Earth.gif?raw=true"/> You can find me all over the web as [@tivereidoro](https://tivere.tech). 🚀🚀
 </p>
 
 ##
@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<a href="https://twitter.com/tivereidoro/">
+<a href="https://x.com/tivereidoro/">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/tivereidoro?style=social&label=X">
 </a>
 <a href="https://www.facebook.com/idorotee">
